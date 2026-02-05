@@ -2,10 +2,10 @@
 
 ### Turn any raw prompt into a production-ready, Anthropic best-practice prompt — in seconds.
 
-[![GitHub Stars](https://img.shields.io/github/stars/CheswickDEV/claude-prompt-optimizer?style=social)](https://github.com/CheswickDEV/claude-prompt-optimizer)
+[![GitHub Stars](https://img.shields.io/github/stars/CheswickDEV/claude-opus-4.6-prompt-optimizer?style=social)](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Claude Model](https://img.shields.io/badge/Claude-Opus_4.6-blueviolet)](https://www.anthropic.com)
-[![Last Commit](https://img.shields.io/github/last-commit/CheswickDEV/claude-prompt-optimizer)](https://github.com/CheswickDEV/claude-prompt-optimizer/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/CheswickDEV/claude-opus-4.6-prompt-optimizer)](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer/commits/main)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ---
@@ -416,9 +416,9 @@ You're free to use this optimizer personally, commercially, in your own projects
 
 If this optimizer saves you time or improves your Claude results, please consider starring the repo — it helps others discover it and motivates continued development.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CheswickDEV/claude-prompt-optimizer&type=Date)](https://star-history.com/#CheswickDEV/claude-prompt-optimizer&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=CheswickDEV/claude-opus-4.6-prompt-optimizer&type=Date)](https://star-history.com/#CheswickDEV/claude-opus-4.6-prompt-optimizer&Date)
 
-**[⭐ Star this repo](https://github.com/CheswickDEV/claude-prompt-optimizer)** | **[🐛 Report an issue](https://github.com/CheswickDEV/claude-prompt-optimizer/issues)** | **[💡 Request a feature](https://github.com/CheswickDEV/claude-prompt-optimizer/issues/new?template=feature_request.md)**
+**[⭐ Star this repo](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer)** | **[🐛 Report an issue](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer/issues)** | **[💡 Request a feature](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer/issues/new?template=feature_request.md)**
 
 ---
 
