@@ -421,7 +421,12 @@ If this optimizer saves you time or improves your Claude results, please conside
 **[⭐ Star this repo](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer)** | **[🐛 Report an issue](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer/issues)** | **[💡 Request a feature](https://github.com/CheswickDEV/claude-opus-4.6-prompt-optimizer/issues/new?template=feature_request.md)**
 
 ---
+<p align="center">
+  <a href="https://cheswick.dev">
+    <img src="https://img.shields.io/badge/CHESWICK.DEV-00d4ff?logo=firefox&logoColor=0a0a0f&labelColor=a855f7" alt="cheswick.dev" />
+  </a>
+</p>
 
 <p align="center">
-  Built for the Claude community · Not affiliated with Anthropic
+  Made with 🖤 by <a href="https://cheswick.dev">cheswick.dev </a> · Not affiliated with Anthropic
 </p>
