@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> ### 🚀 A newer version is here: [Claude Opus 4.8 Prompt Optimizer »](https://github.com/CheswickDEV/claude-opus-4.8-prompt-optimizer)
+> This 4.6 optimizer has been superseded. The 4.8 edition is calibrated for Opus 4.8 (effort defaults to `high` everywhere, per-turn adaptive thinking). This version stays here for reference.
 # 🧠 Claude Prompt Optimizer
 
 ### Turn any raw prompt into a production-ready, Anthropic best-practice prompt — in seconds.
